@@ -28,4 +28,6 @@ switch (inputPengguna)
     double Pembagian =(double)angka1 / angka2;
     Console.WriteLine(Pembagian);
     break;
+
+    // haha
 }
